@@ -1,0 +1,13 @@
+{
+  "name": "@nhascam/nestjs-api-utils",
+  "version": "0.0.0",
+  "description": "Rest utils to make an api with nestjs",
+  "main": "src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nhacsam/nestjs-api-utils.git"
+  },
+  "author": "Nicolas Djambazian <nicolas@djambazian.fr>",
+  "license": "MIT",
+  "gitHead": "4f3d805516a8e8e361af646dfb0b5066a398b67e"
+}
