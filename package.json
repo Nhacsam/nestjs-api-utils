@@ -1,6 +1,6 @@
 {
   "name": "@nhascam/nestjs-api-utils",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "description": "Rest utils to make an api with nestjs",
   "main": "src/index.ts",
   "publishConfig": {
